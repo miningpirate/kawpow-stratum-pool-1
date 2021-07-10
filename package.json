@@ -7,8 +7,8 @@
   "_requested": {
     "type": "git",
     "raw": "stratum-pool@git+https://github.com/RavenCommunity/kawpow-stratum-pool.git",
-    "name": "stratum-pool",
-    "escapedName": "stratum-pool",
+    "name": "stratum-pool1",
+    "escapedName": "stratum-pool1",
     "rawSpec": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git",
     "saveSpec": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git",
     "fetchSpec": "https://github.com/RavenCommunity/kawpow-stratum-pool.git",
@@ -75,7 +75,7 @@
   ],
   "license": "GPL-2.0",
   "main": "lib/index.js",
-  "name": "stratum-pool",
+  "name": "stratum-pool1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RavenCommunity/kawpow-stratum-pool.git"
